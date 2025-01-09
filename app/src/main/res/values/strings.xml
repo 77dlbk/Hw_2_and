@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hw_2</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="enter">Вход</string>
+    <string name="verification">Выполните вход\n или зарегистрируйтесь.</string>
+    <string name="toenter">Войти</string>
+</resources>
