@@ -4,4 +4,5 @@
     <string name="enter">Вход</string>
     <string name="verification">Выполните вход\n или зарегистрируйтесь.</string>
     <string name="toenter">Войти</string>
+    <string name="passwordEditText">Введите пароль</string>
 </resources>
